@@ -37,3 +37,7 @@ Starting asteroids!
 Screen width: 1280
 Screen height: 720
 ```
+
+## References
+
+The project was created as part of the backend developer stream at boot.dev
